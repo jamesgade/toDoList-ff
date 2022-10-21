@@ -1,6 +1,6 @@
 # toDoList-ff
 
-### This is a ToDo List mobile application built with flutterflow wuth real-time user authentication and database. The application's state is available in both Light & Dark Modes. Kindly check this in Mobile Screens.
+### This is a ToDo List mobile application built with flutterflow with real-time user authentication and database. The application's state is available in both Light & Dark Modes. Kindly check this in Mobile Screens.
 
 [App is running here](https://app.flutterflow.io/run/dK9h0Cm9dcJDOSoz1YST)
 
