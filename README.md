@@ -14,7 +14,9 @@ The technical aspects include
 ### Some screenshots of the application
 
 ## Start Screen
-![1](https://user-images.githubusercontent.com/57884768/197113113-b5740a04-d77c-451b-b34a-947824098125.jpeg =400x400)
+![1](https://user-images.githubusercontent.com/57884768/197113113-b5740a04-d77c-451b-b34a-947824098125.jpeg =412x892)
+
+<img src="https://user-images.githubusercontent.com/57884768/197113113-b5740a04-d77c-451b-b34a-947824098125.jpeg" width="412px" height="892px">
 
 ## Register Screen
 ![2](https://user-images.githubusercontent.com/57884768/197113176-63fb4569-fc0c-4344-8cc9-9fd4facc43a1.jpeg)
